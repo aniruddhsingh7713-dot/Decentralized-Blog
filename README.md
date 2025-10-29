@@ -99,10 +99,11 @@ Our vision is to create a truly free and open internet where writers, journalist
 - Research cross-chain bridges for wider accessibility
 
 ## Contract Details
-CBE5VU36DGMFL5OT3EBSY33PFHBM5NOAJKWD3N4G4LVKPQQUSH5VYK76
- ![alt text](image.png)
+CCBUZCFXJOYHR44TI2VISCJ3EA7MY5TUOD7HNLTJZDNGUU6QDIRVZXEKU
+![alt text](image-1.png)
 ---
 
 **Built on Stellar using Soroban Smart Contracts**
+
 
 *Empowering voices, preserving truth, ensuring freedom.*
